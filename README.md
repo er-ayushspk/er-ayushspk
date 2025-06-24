@@ -36,9 +36,9 @@
 ### **📊 GitHub Stats**
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=er-ayushspk&theme=default&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=er-ayushspk&theme=default)](https://git.io/streak-stats)
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=er-ayushspk&show_icons=true&theme=default&hide_border=true)
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=er-ayushspk&show_icons=true&theme=default)
 
 </div>
 
