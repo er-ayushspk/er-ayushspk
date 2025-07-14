@@ -12,10 +12,10 @@
 
 ### **✨ About Me**
 - 🎓 **Class 12 Computer Science Student**
-- 🌱 Currently learning **C, C++, Java, and Web Dev**
+- 🌱 Known Language **C, C++, Java, and Web Dev**
+- 🫠 Currently learning **C#**
 - 💡 Passionate about **open-source, AI, and cybersecurity**
-- 🚀 Building my first major project soon!
-- ⚡ Fun fact: I solve Rubik's cubes for fun
+- ⚡ Fun fact: NO FUN HERE HUHU
 
 ---
 
