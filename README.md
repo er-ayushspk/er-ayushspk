@@ -11,7 +11,7 @@
 ---
 
 ### **✨ About Me**
-- 🎓 **Class 12 Computer Science Student**
+- 🎓 **Class 12 Computer Engineering Student**
 - 🌱 Known Language **C, C++, Java, and Web Dev**
 - 🫠 Currently learning **C#**
 - 💡 Passionate about **open-source, AI, and cybersecurity**
