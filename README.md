@@ -1,30 +1,33 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Ayush Sapkota (@er-ayushspk)
-### **Computer Engineering Student | Future Full-Stack Developer**
-
+<!-- Intro -->
 <div align="center">
+  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=er-ayushspk&label=Profile+Views&color=brightgreen&style=flat)](https://github.com/er-ayushspk)
-[![GitHub Followers](https://img.shields.io/github/followers/er-ayushspk?label=Follow&style=social)](https://github.com/er-ayushspk)
+# Yo, I'm **Ayush Sapkota** ⚡
+### 🎓 Class 12 Computer Engineering | 💻  C# Learner | 🔒 Future Cisco CyberSec Beast  
+
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="350px">
 
 </div>
 
 ---
 
-### **✨ About Me**
-- 🎓 **Class 12 Computer Engineering Student**
-- 🌱 Known Language **C, C++, Java, and Web Dev**
-- 🫠 Currently learning **C#**
-- 💡 Passionate about **open-source, AI, and cybersecurity**
-- ⚡ Fun fact: NO FUN HERE HUHU
+## 🚀 About Me
+- 🎓 Class 12 — grinding **Computer Engineering**
+- 🔥 Languages in my bag: **C, C++, Java, HTML, CSS, JS**
+- 🌱 Currently learning **C#, CN**
+- 🎯 Dream: Become a **Cisco Certified Cyber Security Expert**
+- ⚡ Fun fact: *There is no fun here huhu...* 💀
 
 ---
 
-### **🛠️ Tech Stack**
+## 🛠️ Tech Stack
 <div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,18 +36,24 @@
 
 ---
 
-### **📊 GitHub Stats**
+## 📊 GitHub Vibes
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=er-ayushspk&theme=default)](https://git.io/streak-stats)
-
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=er-ayushspk&show_icons=true&theme=default)
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=er-ayushspk&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=er-ayushspk&theme=tokyonight&hide_border=true)  
 
 </div>
 
 ---
 
-### **📫 Let's Connect**
+## 🎯 Goals & Dreams
+- 🛡️ Dream to be **Cyber Security Expert**.  
+- 🕹️ Build project that i love to.
+- 🌍 Wanna be big thorugh this hustle. 
+
+---
+
+## 📫 Let’s Link Up
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsapkota158@gmail.com)
@@ -56,6 +65,6 @@
 
 <div align="center">
 
-![Snake Animation](https://github.com/er-ayushspk/er-ayushspk/blob/output/github-contribution-grid-snake.svg)
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="280px">
 
 </div>
